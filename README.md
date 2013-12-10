@@ -1,1 +1,1 @@
-Repository to demenstrate my coding abilities.
+Repository to demonstrate my coding abilities.
